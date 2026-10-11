@@ -174,14 +174,6 @@ Run prediction:
 python predict.py
 📈 Results
 
-Example performance metrics:
-
-Metric	Score
-Accuracy	XX%
-Precision	XX%
-Recall	XX%
-F1 Score	XX%
-ROC-AUC	XX%
 
 Replace these values with your actual experimental results.
 
