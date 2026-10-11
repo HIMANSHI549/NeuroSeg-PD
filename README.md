@@ -175,7 +175,7 @@ python predict.py
 📈 Results
 
 
-Replace these values with your actual experimental results.
+
 
 🔬 Future Improvements
 3D CNN architectures
